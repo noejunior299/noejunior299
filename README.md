@@ -1,23 +1,22 @@
 ```kotlin
-val noejunior792 = createSoftwareDeveloper(
-    name = "Noé Júnior",
-    namespace = "ITEL, Electronics and Telecommunications",
+val noejunior299 = createSoftwareDeveloper(
+    name = "Noé Idagi",
     labels = mapOf(
         "kotlin/dev" to "true",
-        "experience/year" to "2",
-        "project" to "provaaki",
+        "experience/year" to "3",
+        "project" to "organify",
         "gdsc/mobileDev" to "2023"
     ),
     annotations = mapOf(
-        "interests" to "mobile development, web development, distributed systems, system programming, and Linux",
+        "interests" to "mobile development, web development, distributed systems, system programming, and Linux and little ai",
         "sports" to "boxing",
-        "community" to "kotlin brasil, indie hacking brasil, hinao"
+        "community" to "kotlin brasil, indie hacking brasil, livekwanza"
     ),
     replicas = 1
 )
 ```
 <img align="right" width="200" alt="danba340 Github Stats" src="daftpunktocat.gif" />
-<a href="http://www.github.com/noejunior792"><img src="https://github-readme-stats.vercel.app/api?username=noejunior792&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="noejunior792's GitHub stats" /></a>
+<a href="http://www.github.com/noejunior299"><img src="https://github-readme-stats.vercel.app/api?username=noejunior299&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="noejunior792's GitHub stats" /></a>
 
 
 ### Socials
