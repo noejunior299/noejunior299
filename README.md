@@ -15,8 +15,6 @@ val noejunior299 = createSoftwareDeveloper(
     replicas = 1
 )
 ```
-<img align="right" width="200" alt="danba340 Github Stats" src="daftpunktocat.gif" />
-<a href="http://www.github.com/noejunior299"><img src="https://github-readme-stats.vercel.app/api?username=noejunior299&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="noejunior299's GitHub stats" /></a>
 
 
 ### Socials
